@@ -30,6 +30,6 @@ Indicador de `Crecimiento del uso de cable modem`
 Indicador de `Crecimiento del uso de Fibra Optica`
   - Este indicador nos permite visualizar el progreso del uso de tecnologia de cable moden respecto a otras tecnologias de forma trimestral
 
-#Dashboard
+### Dashboard
 Para presentar toda la información relevante es necesario el uso de herramientas visuales que permitan comprender los hallagoz realizados
 
