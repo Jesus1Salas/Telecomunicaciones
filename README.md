@@ -1,3 +1,4 @@
+![Logo](Imagenes/Logo2.png) 
 # Servicios de Telecomunicaciones en Argentina
 ### Introducción
 EL siguiente proyecto tiene como objetivo determinar áreas de oportunidad dentro del pais de `Argentina` para brindar servicios de internet proporcionados por la empresa `Intercom`, para ello es necesario determinar los `lugares` y el tipo de `Servicio` a otorgar a partir de la información analizada.
@@ -33,3 +34,4 @@ Indicador de `Crecimiento del uso de Fibra Optica`
 ### Dashboard
 Para presentar toda la información relevante es necesario el uso de herramientas visuales que permitan comprender los hallagoz realizados
 
+![dashboard](Imagenes/Dashboard.jpg)
